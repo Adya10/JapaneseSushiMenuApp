@@ -6,3 +6,9 @@
 //
 
 import Foundation
+
+struct menuItem {
+    var name: String
+    var price: String
+    var imageName: String
+}
